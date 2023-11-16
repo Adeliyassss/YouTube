@@ -1,4 +1,4 @@
-package com.example.youtube.ui.main
+package com.example.youtube.ui.adapters
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater

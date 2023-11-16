@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.youtube.data.model.Item
 import com.example.youtube.databinding.ActivitySecondBinding
-import com.example.youtube.ui.main.PlaylistAdapter
+import com.example.youtube.ui.adapters.PlaylistAdapter
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class SecondActivity : AppCompatActivity() {
